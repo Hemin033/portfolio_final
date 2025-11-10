@@ -122,7 +122,7 @@ export default function PortfolioDetailsEighteenArea() {
                 <div className="col-xl-9">
                   <div className="showcase-details-2-content-right tp_title_anim">
                       <p className="pb-25">Creative television commercial for JBCN, focusing on educational excellence and inspiring young minds to achieve their potential through quality education.</p>
-                      <p>The commercial combines compelling storytelling with strong visual narratives to communicate JBCN's commitment to nurturing future leaders and providing world-class educational experiences.</p>
+                      <p>The commercial combines compelling storytelling with strong visual narratives to communicate JBCN&apos;s commitment to nurturing future leaders and providing world-class educational experiences.</p>
                   </div>
                 </div>
             </div>
@@ -165,7 +165,7 @@ export default function PortfolioDetailsEighteenArea() {
               </div>
               <div className="col-xl-9">
                 <div className="showcase-details-2-content-right tp_title_anim">
-                    <p className="pb-25">The JBCN commercial successfully increased brand awareness and enrollment inquiries, effectively communicating the institution's values and educational philosophy.</p>
+                    <p className="pb-25">The JBCN commercial successfully increased brand awareness and enrollment inquiries, effectively communicating the institution&apos;s values and educational philosophy.</p>
                     <p>Strategic placement across multiple media channels resulted in enhanced brand recognition and positioned JBCN as a leading educational institution in the market.</p>
                 </div>
               </div>

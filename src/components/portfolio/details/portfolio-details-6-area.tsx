@@ -64,7 +64,7 @@ export default function PortfolioDetailsSixArea() {
             <div className="row">
                 <div className="col-xl-12">
                   <div className="tp-project-details-3-title-box">
-                      <h2 className="tp-section-title-160 mb-50 tp-char-animation rizvi-title-custom">Fat Man's Cafe</h2>
+                      <h2 className="tp-section-title-160 mb-50 tp-char-animation rizvi-title-custom">Fat Man&apos;s Cafe</h2>
                   </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@ export default function PortfolioDetailsSixArea() {
                 <div className="col-xl-9">
                   <div className="showcase-details-2-content-right tp_title_anim">
                       <p className="pb-25">A quirky cafe & grill in Mumbai with cool vibe. An ideal place to hang out with friends and enjoy wide variety of food.</p>
-                      <p>This was our pitch to the owner of the cafe Mr. Rajiv Tandon. We created a new visual language based on Fat Man's philosophy. We recreated the mascot of the cafe along with the logo and visual identity.</p>
+                      <p>This was our pitch to the owner of the cafe Mr. Rajiv Tandon. We created a new visual language based on Fat Man&apos;s philosophy. We recreated the mascot of the cafe along with the logo and visual identity.</p>
                   </div>
                 </div>
             </div>

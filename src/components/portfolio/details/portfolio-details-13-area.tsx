@@ -71,7 +71,7 @@ export default function PortfolioDetailsThirteenArea() {
             <div className="row">
                 <div className="col-xl-12">
                   <div className="tp-project-details-3-title-box">
-                      <h2 className="tp-section-title-160 mb-50 tp-char-animation rizvi-title-custom">Officer's Choice</h2>
+                      <h2 className="tp-section-title-160 mb-50 tp-char-animation rizvi-title-custom">Officer&apos;s Choice</h2>
                   </div>
                 </div>
             </div>
@@ -113,7 +113,7 @@ export default function PortfolioDetailsThirteenArea() {
             <div className="row">
                 <div className="col-xl-12">
                   <div className="showcase-details-2-section-box">
-                      <h4 className="showcase-details-2-section-title rizvi-section-title">World's largest selling whisky</h4>
+                      <h4 className="showcase-details-2-section-title rizvi-section-title">World&apos;s largest selling whisky</h4>
                   </div>
                 </div>
             </div>
@@ -128,8 +128,8 @@ export default function PortfolioDetailsThirteenArea() {
                 </div>
                 <div className="col-xl-9">
                   <div className="showcase-details-2-content-right tp_title_anim">
-                      <p className="pb-25">Launched in 1988 and positioned in the regular whiskey segment, Officer's Choice Whisky is one of the largest whisky brands in the world and also one of the largest exported spirits brand with a presence in over 18 countries.</p>
-                      <p>As part of our internal exercise we pick up any brand and try to see it from a different contemporary perspective. As part of this exercise we visualized rebranding of Officer's Choice whisky.</p>
+                      <p className="pb-25">Launched in 1988 and positioned in the regular whiskey segment, Officer&apos;s Choice Whisky is one of the largest whisky brands in the world and also one of the largest exported spirits brand with a presence in over 18 countries.</p>
+                      <p>As part of our internal exercise we pick up any brand and try to see it from a different contemporary perspective. As part of this exercise we visualized rebranding of Officer&apos;s Choice whisky.</p>
                   </div>
                 </div>
             </div>
@@ -165,7 +165,7 @@ export default function PortfolioDetailsThirteenArea() {
               <div className="col-xl-9">
                 <div className="showcase-details-2-content-right tp_title_anim">
                     <p className="pb-25">This also worked as our pitch to the client. Although the clients were hesitant to change the current look but they were very happy and appreciative of our approach and effort.</p>
-                    <p>The comprehensive packaging redesign explores contemporary visual language while respecting the brand's heritage and market position in the competitive whisky segment.</p>
+                    <p>The comprehensive packaging redesign explores contemporary visual language while respecting the brand&apos;s heritage and market position in the competitive whisky segment.</p>
                 </div>
               </div>
           </div>
